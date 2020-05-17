@@ -1,0 +1,10 @@
+node_modules
+bin
+dist
+.cache
+*.mov
+*.lnk
+**/slides/*.jpg
+**/slides/*.png
+**/scripture/*.jpg
+**/scripture/*.png
